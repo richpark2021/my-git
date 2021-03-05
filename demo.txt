@@ -1,1 +1,3 @@
 This is the first line of a demo text file.
+Adding more text. This the second line for demo.txt.
+
