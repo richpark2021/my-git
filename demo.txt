@@ -1,0 +1,2 @@
+This is a demo text file from:
+/home/devasc/labs/devnet-src/git-intro/my-git
